@@ -1,0 +1,1 @@
+Jivi - For my testAlive(step 3), I send a signal through a channel every 2 seconds
